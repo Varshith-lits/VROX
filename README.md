@@ -26,3 +26,12 @@ User Prompt ──> [VROX Web Frontend (index.html)] ──> LLM API (Reasoning 
                        │
              Modular Notebooks (Sessions 1-4)
              • Foundations -> ReAct Loop -> Memory -> Deployment
+🌐 Live Demo
+Netlify Deployment: vroxagent.netlify.app (Bring your API key to test the live agent loop)
+
+🏆 Acknowledgments
+Institution: Vellore Institute of Technology (VIT), Vellore   
+
+Event: graVITas '26 & Data Alchemy 4.0
+
+Partner: HCLTech
